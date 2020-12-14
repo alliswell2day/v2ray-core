@@ -1,13 +1,15 @@
 module v2ray.com/core
 
 require (
+	github.com/alliswell2day/v2ray-sspanel-v3-mod_Uim-plugin v0.0.0-20200705041917-741dbb4fde04
 	github.com/dgryski/go-metro v0.0.0-20180109044635-280f6062b5bc // indirect
 	github.com/golang/mock v1.4.3
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.4.3
 	github.com/google/go-cmp v0.5.0
 	github.com/gorilla/websocket v1.4.2
 	github.com/miekg/dns v1.1.29
 	github.com/refraction-networking/utls v0.0.0-20190909200633-43c36d3c1f57
+	github.com/robfig/cron v1.2.0 // indirect
 	github.com/seiflotfy/cuckoofilter v0.0.0-20200511222245-56093a4d3841
 	go.starlark.net v0.0.0-20190919145610-979af19b165c
 	golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9
